@@ -1,5 +1,5 @@
 **Software used**
-local (https://localwp.com)   (to use wordpress)
+local (https://localwp.com)   (to use wordpress) \n
 wordpress.org (build)
 simply static (export)
 github pages (host)
